@@ -1,4 +1,4 @@
-function showMessage()
+function showMessage(
 {
     alert("Welcome to SSCCM");
 }
